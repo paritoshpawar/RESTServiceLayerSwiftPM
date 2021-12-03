@@ -1,2 +1,3 @@
-# iOS-Generic-Service-Layer
-Swift PM service layer
+# RESTServiceLayerSwiftPM
+
+A description of this package.
